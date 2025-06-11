@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -5,7 +6,7 @@
     </head>
     <body >
         <h1>Name:</h1> <p>Vandhana Sai Murugan</p>
-        <img src="profil.jpeg" alt="Profile">
+        <img src="images.jpeg" alt="Profile"width ="160px"height ="170px">
         <h3>D.O.B:</h3> <p>17.03.2005</p>
         <h4>Phone Number:</h4> <p>6380691092</p>
         <form>
@@ -31,7 +32,7 @@
         </ol>
         
         <h5>Certificate</h5>
-     <a href=" Solo learn HTML certificate.jpg">html</a>
+     <a href=" https://api2.sololearn.com/v2/certificates/CC-A2SFRU9I/image/png?t=638830755030733470">html</a>
         <br>
        <a href="https://api2.sololearn.com/v2/certificates/CC-VDLWSBLM/image/png?t=638806805058646560 ">java</a>
         
